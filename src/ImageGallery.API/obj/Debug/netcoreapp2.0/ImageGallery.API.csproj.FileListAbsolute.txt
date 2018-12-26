@@ -1,0 +1,14 @@
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Coding\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
